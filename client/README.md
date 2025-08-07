@@ -1,10 +1,10 @@
 _*NOTE: IF YOU FACE ANY ERROR, CHALLENGE OR HAVE ANY DOUBT, JUST CREATE AN PR(HIGHLY RECOMMENDED) OR EMAIL ME, I WILL RESPOND AS SOON AS POSSIBLE*_
 
-*DON'T FORGET TO `STAR` THE REPO AND FOLLOW [ME](https://github.com/prashant0664)🥹[PRASHANT0664](https://github.com/prashant0664)*
+_DON'T FORGET TO `STAR` THE REPO AND FOLLOW [ME](https://github.com/Dnyaneshwar2472/)(https://github.com/Dnyaneshwar2472/)_
 
 ## To setup .env file:
 
-``.env`` file contains only two values:
+`.env` file contains only two values:
 
 ```
 REACT_APP_BACKEND_URL="http://localhost:5002"
